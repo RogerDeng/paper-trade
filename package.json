@@ -59,7 +59,7 @@
         "file-loader": "^0.11.1",
         "muse-ui": "^2.0.2",
         "nodemon": "^1.9.2",
-        "pug": "^2.0.0-beta11",
+        "pug": "^3.0.1",
         "style-loader": "^0.16.1",
         "vue": "^2.2.6",
         "vue-loader": "^11.3.4",
