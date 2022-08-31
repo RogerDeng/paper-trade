@@ -34,7 +34,7 @@
         "knex": "^0.13.0",
         "less-loader": "^4.0.3",
         "moment": "^2.18.1",
-        "moment-timezone": "^0.5.13",
+        "moment-timezone": "^0.5.35",
         "mongodb": "^2.2.26",
         "multer": "^1.2.1",
         "mysql": "^2.12.0",
